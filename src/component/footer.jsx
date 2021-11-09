@@ -19,7 +19,7 @@ function Footer({ headerTitle }) {
         </NavLink>
         <NavLink
           className={({ isActive }) => (isActive ? 'linkActive' : '')}
-          to="/pae2"
+          to="/page2"
         >
           page2
         </NavLink>

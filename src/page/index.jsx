@@ -6,7 +6,7 @@ function Index() {
   return (
     <div>
       <Header headerTitle="Index page" />
-      <div>Index</div>
+      <div class="contents">Index</div>
       <Footer />
     </div>
   );

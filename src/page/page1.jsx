@@ -6,7 +6,7 @@ function Page1() {
   return (
     <div>
       <Header headerTitle="page1" />
-      <div>Page1</div>
+      <div class="contents">Page1</div>
       <Footer />
     </div>
   );
