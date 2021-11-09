@@ -17,4 +17,12 @@ body {
   background: #eee;
   text-align: center;
   padding: 1rem;
+  .gnb {
+    display: flex;
+    justify-content: space-between;
+    a {
+      text-align: center;
+      width: 33.333%;
+    }
+  }
 }
